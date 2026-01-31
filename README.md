@@ -8,7 +8,7 @@ Consolidar a base lógica e aplicar conceitos fundamentais que serão utilizados
 
 Abaixo, você pode navegar pelos tópicos já documentados:
 
-### 1. [Variáveis e Tipos de Dados](./01.%20variaveis)
+### 1. [Variáveis e Tipos de Dados](./01.%20variaveis/README.md)
 * Conceitos de "caixinha" de memória, uso de `let` vs `const` e tipos primitivos (Strings, Numbers, Booleans).
 
 ### 2. [Vetores e Matrizes](./02.%20vetores-e-matrizes)
