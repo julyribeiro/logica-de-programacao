@@ -23,6 +23,10 @@ Abaixo, você pode navegar pelos tópicos já documentados:
 * [x] **IF / ELSE:** Controle de fluxo básico e caminhos alternativos.
 * [x] **ELSE IF:** Verificações múltiplas em cascata.
 
+### 5. [Estruturas de Decisão](./05.%20estruturas-de-decisao)
+* [x] **Switch Case:** Escolha entre múltiplas opções fixas de forma organizada.
+* [x] **Break e Default:** Controle de interrupção e resposta padrão para casos não encontrados.
+
 ## Próximos Tópicos (Em construção 🚧)
 * [ ] Laços de repetição (`for/while`)
 * [ ] Funções
