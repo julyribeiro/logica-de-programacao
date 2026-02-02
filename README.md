@@ -19,8 +19,11 @@ Abaixo, você pode navegar pelos tópicos já documentados:
 * [x] **Comparação/Relacionais:** Igualdade, diferença e grandezas.
 * [x] **Lógicos:** Operadores AND (&&), OR (||) e NOT (!).
 
-### 4. Próximos Tópicos (Em construção 🚧)
-* [ ] Condicionais (`if/else`)
+### 4. [Estruturas Condicionais](./04.%20estruturas-condicionais)
+* [x] **IF / ELSE:** Controle de fluxo básico e caminhos alternativos.
+* [x] **ELSE IF:** Verificações múltiplas em cascata.
+
+## Próximos Tópicos (Em construção 🚧)
 * [ ] Laços de repetição (`for/while`)
 * [ ] Funções
 * [ ] Objetos
