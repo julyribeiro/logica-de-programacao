@@ -27,8 +27,11 @@ Abaixo, você pode navegar pelos tópicos já documentados:
 * [x] **Switch Case:** Escolha entre múltiplas opções fixas de forma organizada.
 * [x] **Break e Default:** Controle de interrupção e resposta padrão para casos não encontrados.
 
+### 6. [Estruturas de Repetição](./06.%20estruturas-de-repeticao)
+* [x] **FOR:** Repetições controladas por contadores (ideal para quando sabemos o limite).
+* [x] **WHILE / DO WHILE:** Repetições baseadas em condições (ideal para fluxos dinâmicos).
+
 ## Próximos Tópicos (Em construção 🚧)
-* [ ] Laços de repetição (`for/while`)
 * [ ] Funções
 * [ ] Objetos
 
