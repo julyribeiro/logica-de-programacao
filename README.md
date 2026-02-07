@@ -31,6 +31,9 @@ Abaixo, você pode navegar pelos tópicos já documentados:
 * [x] **FOR:** Repetições controladas por contadores (ideal para quando sabemos o limite).
 * [x] **WHILE / DO WHILE:** Repetições baseadas em condições (ideal para fluxos dinâmicos).
 
+### 🏆 Projetos de Desafio
+* [x] [**Classificador de Nível de Herói**](desafios/classificador-nivel-heroi.js) - Projeto prático integrando os conhecimentos de lógica para categorização de dados.
+
 ## Próximos Tópicos (Em construção 🚧)
 * [ ] Funções
 * [ ] Objetos
