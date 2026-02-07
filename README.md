@@ -31,11 +31,16 @@ Abaixo, você pode navegar pelos tópicos já documentados:
 * [x] **FOR:** Repetições controladas por contadores (ideal para quando sabemos o limite).
 * [x] **WHILE / DO WHILE:** Repetições baseadas em condições (ideal para fluxos dinâmicos).
 
+### 7. [Funções](./07.%20funcoes)
+* [x] **Conceitos Básicos:** Definição de ações, escopo e modularização (caixinha preta).
+* [x] **Parâmetros e Argumentos:** Como enviar dados para tornar as funções dinâmicas.
+* [x] **Boas Práticas:** Uso de verbos em nomes, `camelCase` e valores padrão (default).
+* [ ] **Funções com Retorno:** Como capturar o resultado de uma função para uso posterior.
+
 ### 🏆 Projetos de Desafio
 * [x] [**Classificador de Nível de Herói**](desafios/classificador-nivel-heroi.js) - Projeto prático integrando os conhecimentos de lógica para categorização de dados.
 
 ## Próximos Tópicos (Em construção 🚧)
-* [ ] Funções
 * [ ] Objetos
 
 
