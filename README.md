@@ -39,6 +39,7 @@ Abaixo, você pode navegar pelos tópicos já documentados:
 
 ### 🏆 Projetos de Desafio
 * [x] [**Classificador de Nível de Herói**](desafios/classificador-nivel-heroi.js) - Projeto prático integrando os conhecimentos de lógica para categorização de dados.
+* [x] [**Calculadora de Partidas Rankeadas**](desafios/calculadora-partidas-hankeadas.js) - Exercício focado em funções e retorno de valores.
 
 ## Próximos Tópicos (Em construção 🚧)
 * [ ] Objetos
