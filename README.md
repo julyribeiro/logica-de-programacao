@@ -35,7 +35,7 @@ Abaixo, você pode navegar pelos tópicos já documentados:
 * [x] **Conceitos Básicos:** Definição de ações, escopo e modularização (caixinha preta).
 * [x] **Parâmetros e Argumentos:** Como enviar dados para tornar as funções dinâmicas.
 * [x] **Boas Práticas:** Uso de verbos em nomes, `camelCase` e valores padrão (default).
-* [ ] **Funções com Retorno:** Como capturar o resultado de uma função para uso posterior.
+* [x] **Funções com Retorno:** Uso do `return` para capturar e reutilizar resultados.
 
 ### 🏆 Projetos de Desafio
 * [x] [**Classificador de Nível de Herói**](desafios/classificador-nivel-heroi.js) - Projeto prático integrando os conhecimentos de lógica para categorização de dados.
