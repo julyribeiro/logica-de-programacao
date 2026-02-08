@@ -37,6 +37,11 @@ Abaixo, você pode navegar pelos tópicos já documentados:
 * [x] **Boas Práticas:** Uso de verbos em nomes, `camelCase` e valores padrão (default).
 * [x] **Funções com Retorno:** Uso do `return` para capturar e reutilizar resultados.
 
+### 8. [Objetos e JSON](./08.%20objetos)
+* [x] **Classes e Objetos:** Criação de moldes, uso de `constructor`, atributos e métodos.
+* [x] **JSON na Prática:** Estruturação de dados complexos e transferência de informações.
+* [x] **Manipulação:** Uso de `for...in` e desestruturação para leitura de objetos.
+
 ### 🏆 Projetos de Desafio
 * [x] [**Classificador de Nível de Herói**](desafios/classificador-nivel-heroi.js) - Projeto prático integrando os conhecimentos de lógica para categorização de dados.
 * [x] [**Calculadora de Partidas Rankeadas**](desafios/calculadora-partidas-hankeadas.js) - Exercício focado em funções e retorno de valores.
