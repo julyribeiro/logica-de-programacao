@@ -13,24 +13,34 @@ Nesta seção, explorei como representar elementos do mundo real no código atra
 Aprendi a criar estruturas que possuem características (atributos) e ações (métodos).
 
 * **[Introdução a Objetos e Classes](../08.%20objetos/01.%20introducao-objetos/01.%20o-que-sao-objetos.js):** * O conceito de **Classe** como molde e **Objeto** como a instância real.
-    * Uso do **Constructor** para inicializar atributos.
-    * Diferença entre **Atributos** (dados) e **Métodos** (funções dentro de classes).
+    * Uso do **Constructor** para inicializar atributos e o uso do `this`.
+    * Diferença entre **Atributos** (dados) e **Métodos** (funções).
 
 
 ## 📥 2. Estrutura de Dados JSON
-Estudo sobre o padrão universal de troca de informações.
+Estudo sobre o padrão universal de troca de informações entre sistemas.
 
-* **[O que é JSON?](../08.%20objetos/02.%20estrutura-dados-json/01.%20o-que-e-json.js):** Por que o JSON (JavaScript Object Notation) é o padrão da indústria para conectar sistemas (Front-end e Back-end).
-* **[A Necessidade do JSON](../08.%20objetos/02.%20estrutura-dados-json/02%20.%20transferindo-dados-json.js):** Um comparativo prático que mostra como a transferência de dados via variáveis soltas torna o código complexo e difícil de manter.
-* **[Trabalhando com JSON na Prática](../08.%20objetos/02.%20estrutura-dados-json/03.%20trabalhando-json-pratica.js):** * Como "empacotar" dados complexos em um único objeto `invoice`.
-    * Acesso a propriedades aninhadas.
-    * Uso do laço `for...in` para percorrer objetos e o processo de **desestruturação** de arrays.
+* **[O que é JSON?](../08.%20objetos/02.%20estrutura-dados-json/01.%20o-que-e-json.js):** Por que o JSON é o padrão da indústria para conectar Front-end e Back-end.
+* **[A Necessidade do JSON](../08.%20objetos/02.%20estrutura-dados-json/02%20.%20transferindo-dados-json.js):** Comparativo prático: a complexidade de variáveis soltas vs. a organização de um objeto.
+* **[Trabalhando com JSON na Prática](../08.%20objetos/02.%20estrutura-dados-json/03.%20trabalhando-json-pratica.js):** * Como "empacotar" dados complexos no objeto `invoice`.
+    * Uso do laço `for...in` e o processo de **desestruturação** de arrays.
+
+
+## 🍰 3. Classes e Objetos (`new`)
+Aprofundamento na criação de moldes reutilizáveis e no processo de instanciação.
+
+* **[O que são Classes e como utilizá-la](../08.%20objetos/03.%20classes-e-objetos/01.%20o-que-sao-classes.js):**
+    * Analogia da "Forma de Bolo" para entender classes e instâncias.
+    * Uso da palavra-chave `class` e a sintaxe do `constructor`.
+    * O que significa **Instanciar** um objeto com o operador `new`.
+
+> **💡 O que aprendi:** Classes permitem padronizar objetos. Embora todos os objetos de uma classe tenham o mesmo "formato", cada instância possui seus próprios dados únicos.
 
 
 ## 📝 Resumo de Aprendizado
-* **Eficiência:** Em vez de passar 10 variáveis para uma função, passamos apenas 1 objeto JSON.
-* **Organização:** Classes permitem reutilizar a lógica de criação de objetos (como Carros ou Heróis) de forma padronizada.
-* **Universalidade:** O JSON é lido por quase todas as linguagens de programação modernas.
+* **Eficiência:** Redução da quantidade de parâmetros em funções ao utilizar objetos.
+* **Organização:** Centralização da lógica e dados em estruturas reutilizáveis.
+* **Universalidade:** O JSON como linguagem universal para comunicação entre diferentes tecnologias.
 
 </br>
 <p align="right">
