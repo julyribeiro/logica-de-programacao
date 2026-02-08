@@ -27,7 +27,15 @@ As funções tornam-se dinâmicas quando aprendemos a enviar dados para dentro d
 * **[Valores Padrão e Observações](../07.%20funcoes/02.%20funcoes-com-parametros/03.%20valores-genericos-para-funcoes.js):** Como evitar erros de `undefined` definindo valores genéricos.
 * **[Exemplo de Conexão](../07.%20funcoes/02.%20funcoes-com-parametros/04.%20exemplo-function-com-parametros.js):** Uso prático de **Template Literals** (Interpolação com `${}`) para criar strings dinâmicas.
 
+---
 
+## 📤 3. Funções com Retorno (`return`)
+O `return` é o que permite que uma função devolva um dado processado para o restante do programa.
+
+* **[Criando Funções com Retorno](../07.%20funcoes/03.%20funcoes-com-retorno/01.%20criando-funcoes-com-retorno.js):** Como capturar valores e armazená-los em variáveis.
+* **[Exemplo com Split](../07.%20funcoes/03.%20funcoes-com-retorno/02.%20exemeplo-funcoes-de-retorno.js):** Manipulação de strings e uso de múltiplos parâmetros com valores padrão.
+
+> **💡 O que aprendi:** Sem o `return`, a função executa a tarefa mas não "entrega" o resultado. O `return` também finaliza a execução da função imediatamente.
 
 ## 📝 Resumo de Conceitos-Chave
 | Termo | Descrição |
