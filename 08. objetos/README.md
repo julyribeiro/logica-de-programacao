@@ -36,6 +36,7 @@ Aprofundamento na criação de moldes reutilizáveis e no processo de instancia�
 
 > **💡 O que aprendi:** Classes permitem padronizar objetos. Embora todos os objetos de uma classe tenham o mesmo "formato", cada instância possui seus próprios dados únicos.
 
+* **[Exercício de Fixação](../08.%20objetos/03.%20classes-e-objetos/02.%20exercicio-pratico.js):** Criação de uma classe Personagem com múltiplos métodos e atributos.
 
 ## 📝 Resumo de Aprendizado
 * **Eficiência:** Redução da quantidade de parâmetros em funções ao utilizar objetos.
