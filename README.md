@@ -44,12 +44,16 @@ Abaixo, você pode navegar pelos tópicos já documentados:
 
 ---
 
-### 🏆 Projetos de Desafio
+### 🏆 Projetos de Desafio (Prática Integrada)
+Nesta seção, apliquei o conhecimento acumulado para resolver problemas lógicos complexos. Confira a pasta completa de [**Desafios**](./desafios).
+
 * [x] [**Classificador de Nível de Herói**](./desafios/classificador-nivel-heroi.js) - Projeto prático integrando os conhecimentos de lógica para categorização de dados.
 * [x] [**Calculadora de Partidas Rankeadas**](./desafios/calculadora-partidas-hankeadas.js) - Exercício focado em funções e retorno de valores.
+* [x] [**Escrevendo as Classes de um Jogo**](./desafios/escrevendo-classes-de-um-jogo.js) - Aplicação de Orientação a Objetos para simular ataques de heróis.
 
 ---
 
 ## 🛠️ Ferramentas Utilizadas
 * **Linguagem:** JavaScript (Node.js)
 * **Editor:** Visual Studio Code
+* **Versionamento:** Git & GitHub
